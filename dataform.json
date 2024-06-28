@@ -1,0 +1,6 @@
+{
+  "defaultDatabase": "askasks-poc-curated",
+  "defaultSchema": "ds_poc_oracle",
+  "warehouse": "bigquery",
+  "defaultLocation": "EU"
+}
