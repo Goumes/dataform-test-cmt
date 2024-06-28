@@ -1,6 +1,0 @@
-config {
-  type: "declaration",
-  database: "askasks-poc-curated",
-  schema: "ds_poc_oracle",
-  name: "test_oehr_customers"
-}
